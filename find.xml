@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Module 'minvolvo-model'" />
+    <option name="defaultScopeName" value="Module 'minvolvo-model'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Module 'minvolvo-model'" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*Action*</mask>
+      <mask>*css</mask>
+      <mask>*gi*xml</mask>
+      <mask>scss</mask>
+      <mask>*</mask>
+      <mask>minvolvo.*.properties</mask>
+      <mask>*training*</mask>
+      <mask>wsdl</mask>
+      <mask>properties</mask>
+      <mask>pom.xml</mask>
+      <mask>*scss</mask>
+      <mask>*ftl</mask>
+      <mask>*Action.java</mask>
+      <mask>*properties</mask>
+      <mask>js</mask>
+      <mask>*js</mask>
+      <mask>*jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*java</mask>
+      <mask>*Test*java</mask>
+      <mask>*xml</mask>
+    </recentFileMasks>
+  </component>
+</application>
